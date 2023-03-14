@@ -29,7 +29,7 @@ while Looping:
     if(Go == "n"):
         break
 
-
+#Sluta ta på ,mig elloit
 
 print("------")
 print("Du får en frukt till")
